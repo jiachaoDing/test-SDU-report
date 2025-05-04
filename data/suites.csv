@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"测试错误的邀请码","1280","test_register_wrong_invitation_code","tests","Sun May 04 20:48:14 CST 2025","failed","Sun May 04 20:48:15 CST 2025","TestRegister","test_register","",""
+"测试邀请码为空","804","test_register_missing_invitation_code","tests","Sun May 04 20:48:13 CST 2025","failed","Sun May 04 20:48:14 CST 2025","TestRegister","test_register","",""
+"测试注册成功","1046","test_register_success","tests","Sun May 04 20:48:05 CST 2025","passed","Sun May 04 20:48:06 CST 2025","TestRegister","test_register","",""
+"测试用户名为空","5492","test_register_empty_username","tests","Sun May 04 20:48:08 CST 2025","passed","Sun May 04 20:48:13 CST 2025","TestRegister","test_register","",""
+"测试密码不一致","886","test_register_password_mismatch","tests","Sun May 04 20:48:06 CST 2025","failed","Sun May 04 20:48:07 CST 2025","TestRegister","test_register","",""
